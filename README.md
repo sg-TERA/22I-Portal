@@ -1,8 +1,11 @@
-# 22I-Portal
+# '22I-Portal
+
 3I Portal
 
---- License ---  
+## --- License ---  
 
 No redistribution without modification.  
+
+Do not reuse photos.
 
 © 2024 sg-TERA
